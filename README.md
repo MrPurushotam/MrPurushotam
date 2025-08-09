@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [WebVisitor](https://github.com/MrPurushotam/WebVisitor)
 
-- 🌱 I’m currently learning **Go Gin, React Native,Mcp Server**
+- 🌱 I’m currently learning **Go Gin, React Native, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://purushotamjeswani.in](https://purushotamjeswani.in)
 
